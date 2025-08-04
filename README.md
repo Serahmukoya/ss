@@ -1,5 +1,4 @@
- Fun Calculator! 😎
-Welcome to the Fun Calculator — your friendly, emoji-powered calculator built with Python!
+
 Add, subtract, multiply, and divide two numbers in style. Whether you’re doing homework or just goofing around, this mini calculator is here to make math fun! 🎈
 
 💡 What It Does
